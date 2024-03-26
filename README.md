@@ -1,10 +1,10 @@
 # Belajar Analisis Data dengan Python
 
 ## Deskripsi
-Data telah dianggap sebagai sumber daya penting oleh berbagai industri, seperti e-commerce, manufacturing, healthcare, finance, dll. Analisis data merupakan proses pemanfaatan data menjadi insight (wawasan) yang selanjutnya akan digunakan untuk menjawab berbagai tantangan bisnis mulai dari penyelesaian masalah hingga pengambilan keputusan. Kelas ini menjadi jawaban bagi Anda yang ingin menguasai proses analisis data menggunakan bahasa pemrograman Python.
+Data telah dianggap sebagai sumber daya penting oleh berbagai industri, seperti *e-commerce, manufacturing, healthcare, finance,* dll. Analisis data merupakan proses pemanfaatan data menjadi *insight* (wawasan) yang selanjutnya akan digunakan untuk menjawab berbagai tantangan bisnis mulai dari penyelesaian masalah hingga pengambilan keputusan. Kelas ini menjadi jawaban bagi Anda yang ingin menguasai proses analisis data menggunakan bahasa pemrograman Python.
 
 - Data merupakan sumber daya penting bagi perusahaan/organisasi. Namun, sebelum bisa langsung dimanfaatkan, data perlu diolah melalui proses analisis data terlebih dahulu.
-- Tingginya kebutuhan akan praktiisi data (data analyst atau data scientist) di industri.
+- Tingginya kebutuhan akan praktisi data (*data analyst* atau *data scientist*) di industri.
 - Untuk menjadi seorang praktisi data yang Andal, salah satu keahlian yang harus Anda kuasai ialah analisis data.
 - Kelas ini mengajarkan Anda proses analisis data menggunakan bahasa pemrograman Python, salah satu tool andalan para praktisi data di industri.
 - Selain itu, kelas ini juga menyediakan studi kasus untuk memberikan Anda gambaran proses analisis data di industri.
